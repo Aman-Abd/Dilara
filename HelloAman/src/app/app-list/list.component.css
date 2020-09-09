@@ -1,0 +1,28 @@
+.item{
+  border: 1px solid gray;
+  padding: 10px;
+  width: 100%;
+}
+
+.checkbox {
+  display: inline-block;
+  margin-right: 100px;
+}
+
+.checkbox:active{
+  background: blue;
+}
+
+p{
+  display: inline-block;
+}
+
+i{
+  display: inline-block;
+  float: right;
+}
+
+.component{
+  color: red;
+}
+
